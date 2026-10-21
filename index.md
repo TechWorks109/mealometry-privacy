@@ -2,6 +2,9 @@
 title: Mealometry Privacy Policy
 ---
 
+# Mealometry Privacy Policy
+
+*Last updated: October 21, 2026*
 
 Mealometry stores your food log, goals and settings on your device. It has no accounts, no ads and no analytics, and we don't collect, sell or share personal information.
 
